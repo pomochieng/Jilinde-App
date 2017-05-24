@@ -33,3 +33,51 @@ Internet Services
 Operational costs.
 Thank You
 Asante sana (Thank you very much) for  viewing this project and we do hope that you will support or even join us in this step to salvage the dignity of women and girls in the society.
+
+ROADMAP
+
+Project Name: Jilinde
+
+Description: Develop an application that will report cases of Gender based Violence to relevant authorities for adults and children to be able to seek help and immediate medical attention.
+
+Mission: To seek immediate medical care for survivors and initiate prosecution of the offenders.
+
+
+Summary: Gender Based Violence is just a word that covers many ills done to children, girls and women in both developed and developing worlds and cases go unresolved. My app will be able to unlock all the bureaucratic procedures to assist victims thus accessing medical care and Justice, thereafter seeking pro bono or paid counselling services to secure their future and stop living with the stigma.
+
+Milestones: 
+
+#Meet Stakeholders (Clinical Officer, Nurse, Police, Counsellor , Lawyer, Human Rights Defender, survivor.)
+#Identify a developer and designer.
+#Collect learning resources.
+#Draw flow Chart of Occurrence.
+#Design a Paper Prototype.
+#Determine Language and Framework to develop the App.
+#Develop a Minimum Viable Product.
+
+Task to complete for each Milestone:
+
+Meet Stakeholders (Clinical Officer, Nurse, Police, Counsellor , Lawyer, Human Rights Defender, Survivors)
+  #Find out what are their roles in the sector.
+
+Identify a developer and designer.
+  #To seek guidance on development language and design options.
+  #Understand in depth what the application entails and would require.
+
+Collect learning resources.
+  #The Do’s and Don’ts of sexual abuse, understanding of different Languages to be used in App development, Identify Video’s and resources to be used to create awareness in the app.
+
+Draw flow Chart of Occurrence.
+  #Show in depth understanding of app processes.
+
+Design a Paper Prototype.
+  #For accurate app design and testing user interface.
+
+Determine Language and Framework to develop the App.
+  #After compiling all the resources, a decision will be made on language and framework to be used.
+  #Develop a Minimum Viable Product.
+  #Develop a working prototype to show the App’s potential.
+
+
+Contributor channels will include the following: Github, Slack, Whatsapp, Telegram, Google hangouts.
+
