@@ -77,7 +77,7 @@ Task to complete for each Milestone:
 
 **Collect learning resources.**
 
-  ...*The Do’s and Don’ts of sexual abuse, understanding of different Languages to be used in App development, Identify Video’s and resources to be used to create awareness in the app..
+  ...*The Do’s and Don’ts of helping sexual abuse victims, understanding of different Languages to be used in App development, Identify Video’s and resources to be used to create awareness in the app..
 
 **Draw flow Chart of Occurrence.**
 
