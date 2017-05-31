@@ -19,18 +19,18 @@ If you think you have any expertise listed below please do no hesitate to join u
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct(create code of conduct for project contribution) in all interactions both on and offline.
 
 We would require the following resources to be able to complete this project
-  -*Doctors and Nurses (first responders).
-  ..*Android and Web Developers..
-  ..*Database Administrators .. 
-  ..*Graphic Designers .. 
-  ..*Police.. 
-  ..*Data Security expert..
-  ..*Lawyers..
-  ..*Liaison Officers (to work with different NGOs and Government Institutions that the application will be linked to.)..
-  ..*Consultants ..
-  ..*Meeting Space ..
-  ..*Internet Services ..
-  ..*Operational costs...
+  ...*Doctors and Nurses (first responders).
+  ...*Android and Web Developers..
+  ...*Database Administrators .. 
+  ...*Graphic Designers .. 
+  ...*Police.. 
+  ...*Data Security expert..
+  ...*Lawyers..
+  ...*Liaison Officers (to work with different NGOs and Government Institutions that the application will be linked to.)..
+  ...*Consultants ..
+  ...*Meeting Space ..
+  ...*Internet Services ..
+  ...*Operational costs. ..
   
 *Thank You*
 *Asante sana (Thank you very much) for  viewing this project and we do hope that you will support or even join us in this step to salvage the dignity of women and girls in the society.*
@@ -49,51 +49,51 @@ We would require the following resources to be able to complete this project
 
 **Milestones:**
 
-  ..*Meet Stakeholders (Clinical Officer, Nurse, Police, Counsellor , Lawyer, Human Rights Defender, survivor.)
+  ...*Meet Stakeholders (Clinical Officer, Nurse, Police, Counsellor , Lawyer, Human Rights Defender, survivor.)..
 
-  ..*Identify a developer and designer.
+  ...*Identify a developer and designer..
 
-  ..*Collect learning resources.
+  ...*Collect learning resources..
 
-  ..*Draw flow Chart of Occurrence.
+  ...*Draw flow Chart of Occurrence..
 
-  ..*Design a Paper Prototype.
+  ...*Design a Paper Prototype..
 
-  ..*Determine Language and Framework to develop the App.
+  ...*Determine Language and Framework to develop the App..
 
-  ..*Develop a Minimum Viable Product.
+  ...*Develop a Minimum Viable Product..
 
 Task to complete for each Milestone:
 
 **Meet Stakeholders (Clinical Officer, Nurse, Police, Counsellor , Lawyer, Human Rights Defender, Survivors)**
 
-  ..*Find out what are their roles in the sector.
+  ...*Find out what are their roles in the sector..
 
 **Identify a developer and designer.**
 
-  ..*To seek guidance on development language and design options.
+  ...*To seek guidance on development language and design options..
   
-  ..*Understand in depth what the application entails and would require.
+  ...*Understand in depth what the application entails and would require..
 
 **Collect learning resources.**
 
-  ..*The Do’s and Don’ts of sexual abuse, understanding of different Languages to be used in App development, Identify Video’s and resources to be used to create awareness in the app.
+  ...*The Do’s and Don’ts of sexual abuse, understanding of different Languages to be used in App development, Identify Video’s and resources to be used to create awareness in the app..
 
 **Draw flow Chart of Occurrence.**
 
-  ..*Show in depth understanding of app processes.
+  ...*Show in depth understanding of app processes..
 
 **Design a Paper Prototype.**
 
-  ..*For accurate app design and testing user interface.
+  ...*For accurate app design and testing user interface.
 
 **Determine Language and Framework to develop the App.**
 
-  ..*After compiling all the resources, a decision will be made on language and framework to be used.
+  ..*After compiling all the resources, a decision will be made on language and framework to be used..
   
-  ..*Develop a Minimum Viable Product.
+  ...*Develop a Minimum Viable Product..
   
- ..*Develop a working prototype to show the App’s potential.
+ ...*Develop a working prototype to show the App’s potential..
 
 
 *Contributor channels will include the following:* **Github, Slack, Whatsapp, Telegram, Google hangouts.**
