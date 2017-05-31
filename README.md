@@ -19,18 +19,18 @@ If you think you have any expertise listed below please do no hesitate to join u
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct(create code of conduct for project contribution) in all interactions both on and offline.
 
 We would require the following resources to be able to complete this project
-  ..*Doctors and Nurses (first responders)
-  ..*Android and Web Developers,
-  ..*Database Administrators 
-  ..*Graphic Designers, 
-  ..*Police, 
-  ..*Data Security expert,
-  ..*Lawyers,
-  ..*Liaison Officers (to work with different NGOs and Government Institutions that the application will be linked to.)
-  ..*Consultants
-  ..*Meeting Space
-  ..*Internet Services
-  ..*Operational costs.
+  ..*Doctors and Nurses (first responders)..
+  ..*Android and Web Developers..
+  ..*Database Administrators .. 
+  ..*Graphic Designers .. 
+  ..*Police.. 
+  ..*Data Security expert..
+  ..*Lawyers..
+  ..*Liaison Officers (to work with different NGOs and Government Institutions that the application will be linked to.)..
+  ..*Consultants ..
+  ..*Meeting Space ..
+  ..*Internet Services ..
+  ..*Operational costs...
   
 *Thank You*
 *Asante sana (Thank you very much) for  viewing this project and we do hope that you will support or even join us in this step to salvage the dignity of women and girls in the society.*
